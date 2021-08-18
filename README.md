@@ -64,4 +64,5 @@ Filled missing values, feature engineered variables such as crimes_per_district,
 
 ### Visuals
 
+Crime Type Distribution
 ![Crime Distribution Image](images/Crime%20Type%20Breakdown.JPG)
