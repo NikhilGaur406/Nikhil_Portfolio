@@ -7,7 +7,7 @@ I was interested in working on Natural Language Processing projects, and I was i
 
 ### **Technologies Used**
 
-**Python, Pandas, Numpy, Scikit-Learn, and Tensorflow**
+#### **Python, Pandas, Numpy, Scikit-Learn, and Tensorflow**
 
 **Data Collection:**
 
@@ -29,5 +29,18 @@ Data was collected from Reddit using several right and left leaning subreddits s
 The goal here was to see what kind of words popped up with word cloud
 
 - I queried entire dataset to find most common words regarding certain topics such as Trump, Biden, Covid, etc.
+
+
+
+## [**Project2: Used Car Price Predictor**](https://github.com/NikhilGaur406/CragislistVehicles)
+
+This project was my first attempt at a regression problem, and I aim to predict the price of a used car  on Craigslist.
+
+### **Technologies Used**
+#### Python, Pandas, Matplotlib, Scikit-learn, Numpy, Seaborn
+
+### **Process** 
+
+Filled in missing values, analyzed data through visuals, and created several models such as Linear Regression, Decision Tree, Random Forest, XGboost with Random Forest performing the best
  
 
