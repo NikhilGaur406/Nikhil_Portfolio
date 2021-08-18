@@ -1,13 +1,11 @@
 # Nikhil_Portfolio
 This is my data science portfolio showcasing all my projects
 
-### [**Project1: Political Text Classifier**](https://github.com/NikhilGaur406/Political-Text-Classifier)
+## [**Project1: Political Text Classifier**](https://github.com/NikhilGaur406/Political-Text-Classifier)
 
 I was interested in working on Natural Language Processing projects, and I was interested in applying data analytics and machine learning to a political dataset.
 
-# **Political Classifier Model**
-
-# **Technologies Used**
+### **Technologies Used**
 
 **Python, Pandas, Numpy, Scikit-Learn, and Tensorflow**
 
@@ -31,6 +29,5 @@ Data was collected from Reddit using several right and left leaning subreddits s
 The goal here was to see what kind of words popped up with word cloud
 
 - I queried entire dataset to find most common words regarding certain topics such as Trump, Biden, Covid, etc.
-- 
  
 
