@@ -1,4 +1,3 @@
-# Nikhil_Portfolio
 This is my data science portfolio showcasing all my projects
 
 ## [**Project1: Political Text Classifier**](https://github.com/NikhilGaur406/Political-Text-Classifier)
