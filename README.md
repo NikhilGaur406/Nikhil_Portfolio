@@ -3,7 +3,7 @@ This is my data science portfolio showcasing all my projects
 
 ## [**Project1: Political Text Classifier**](https://github.com/NikhilGaur406/Political-Text-Classifier)
 
-I was interested in working on Natural Language Processing projects, and I was interested in applying data analytics and machine learning to a political dataset.
+I was interested in working on Natural Language Processing projects, and applying it to a political dataset, which is why I chose to work on this project. The whole point of this project is to use deep learning techniques to classify a Redditor as right or left wing. 
 
 ### **Technologies Used**
 
