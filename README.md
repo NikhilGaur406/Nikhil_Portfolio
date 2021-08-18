@@ -24,7 +24,7 @@ Data was collected from Reddit using several right and left leaning subreddits s
 - Used Logistic Regression, Naive Bayes, and other classificaiton techniques to get best result
 - Best model was Neural Network trained with 300 epochs, at batch_size of 500   
 
-# **Political Keyword Analysis**
+## **Political Keyword Analysis**
 
 The goal here was to see what kind of words popped up with word cloud
 
