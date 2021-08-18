@@ -43,4 +43,25 @@ This project was my first attempt at a regression problem, and I aim to predict 
 
 Filled in missing values, analyzed data through visuals, and created several models such as Linear Regression, Decision Tree, Random Forest, XGboost with Random Forest performing the best
  
+### **About**
 
+This is my first classification project, in which I classified whether a crime is an arrest, based on variables such as Crime Type, geographical variables (longitude, latitude, beat, district), etc.
+
+### **Technologies Used**
+
+Python Pandas, SQL, Matplotlib, Seaborn, Sci-kit learn, Numpy, 
+
+## [**Project3: Crime Arrest Predictor**](https://github.com/NikhilGaur406/CrimePrediction)
+
+### Dataset
+
+### About
+
+Using different variables such as geographical variables, date, type of crime, etc. to determine if that crime resulted in an arrest.
+### Process
+
+Filled missing values, feature engineered variables such as crimes_per_district, crimes_per_season, created several models such as Logistic Regression, DecisionTrees, RandomForest, etc. where RandomForestClassifier performed the best.
+
+### Visuals
+
+![Crime Distribution Image](images/Crime%20Type%20Breakdown.JPG)
