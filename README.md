@@ -1,7 +1,7 @@
 # Nikhil_Portfolio
 This is my data science portfolio showcasing all my projects
 
-# **Project1: Political Text Classifier**
+### [**Project1: Political Text Classifier**](https://github.com/NikhilGaur406/Political-Text-Classifier)
 
 I was interested in working on Natural Language Processing projects, and I was interested in applying data analytics and machine learning to a political dataset.
 
