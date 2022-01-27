@@ -1,5 +1,7 @@
 #       **My Projects**
 
+#       **My Projects**
+
 ## Android App Rating Prediction
 
 ### Dataset: budget, genres, keywords, movie overview, tagline, revenue, runtime, vote_count
@@ -35,4 +37,6 @@ There are different variables that I can use to tackle this issue, the breadcrum
 Another problem is definitely determining volume size from the pack size, would definitely need some sort of entity extractor for volume or count there
 
 The description is definitely a good area to start as well, would definitely try to use some topic modeling to see what I can glean from there.
- 
+
+
+
