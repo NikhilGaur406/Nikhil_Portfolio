@@ -6,11 +6,6 @@
 This is a regression problem I solved as final project for undergrad, some of the areas I wanted to work on were using average app sentiment for , I also tried to heavil rely on reviews and installs to get the best results.
 
 
-## [Movie Recommender System](https://github.com/NikhilGaur406/RecommenderSystems)
-This is my first attempt at a recommender system trying to recommend movies to users based on collaborative filtering
-
-I am working on adding a content based filtering approach towards this dataset and in the future I will apply deep learning as well.
-
 ## [Image Classification Projects](https://github.com/NikhilGaur406/DogCatClassifier)
 #### [Dog vs Cat classifier](https://github.com/NikhilGaur406/ImageClassificationProjects/blob/master/Dog_Cat_Image_Classifier.ipynb) 
 
