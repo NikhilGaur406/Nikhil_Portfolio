@@ -15,19 +15,7 @@ This project is about creating an image classifier using CNNs to differentiate b
 
 This problem was just my foray into Computer Vision
 
-## [Natural Language Processing Projects](https://github.com/NikhilGaur406/NLPProjects)
-### [Product Classification](https://github.com/NikhilGaur406/NLPProjects/blob/master/Product%20Classification.ipynb)
-Problem still ongoing...
 
-The purpose of this project is to determine the label id of a product based on features such as product description, size, resnet image classification results, retailer, etc.
-
-The main problem to solve with this dataset is the class imbalance, there are many products with the class "OUT OF SCOPE".
-
-There are different variables that I can use to tackle this issue, the breadcrumbs field talks about the different retail sections this specific product moved through, the product name is a pretty good indicator, of how to differentiate between different product types.
-
-Another problem is definitely determining volume size from the pack size, would definitely need some sort of entity extractor for volume or count there
-
-The description is definitely a good area to start as well, would definitely try to use some topic modeling to see what I can glean from there.
 
 
 
